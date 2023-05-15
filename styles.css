@@ -1,0 +1,27 @@
+.student-box {
+  margin-bottom: 20px;
+}
+
+.student-info {
+  display: flex;
+  align-items: center;
+}
+
+.student-info img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.student-video-section {
+  display: none;
+}
+
+.video-container {
+  margin-bottom: 10px;
+}
+
+.view-videos-button {
+  margin-top: 10px;
+}
